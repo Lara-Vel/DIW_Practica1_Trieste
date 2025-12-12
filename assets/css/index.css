@@ -343,7 +343,7 @@ hr {
 .compra-section {
   position: relative;
   width: 100%;
-  background-image: url("/assets/images/barcolana.webp");
+  background-image: url("../images/barcolana.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
